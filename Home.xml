@@ -1,0 +1,10 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+ 
+<channel>
+<name>FILMES</name>
+<thumbnail>https://goo.gl/Qugsc2</thumbnail>
+<externallink>https://raw.githubusercontent.com/AldirSalles/addon/master/filmes.xml</externallink>
+<fanart>https://goo.gl/MD9rai</fanart>
+</channel>
